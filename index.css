@@ -1,0 +1,18 @@
+
+
+.bg-img{
+    background-image: url(/images/pinkybgurb.png);
+    background-position: cover;
+    padding-bottom: 70px;
+}
+.bgg{
+    background-image: url(/images/orangebgurb.png);
+}
+
+.bggb{
+    background-image: url(/images/deeporange.png);
+    height: 200px;
+    background-position: cover;
+}
+
+
